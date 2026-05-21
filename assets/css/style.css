@@ -468,3 +468,6 @@ footer {
   height: 171px;
   border: 1px solid blue;
 }
+footer li {
+  list-style: none;
+}
