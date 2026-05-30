@@ -278,12 +278,12 @@ select {
 .car-card>button {
   width: 368px;
   height: 50px;
-  background-color: #5937e0;
+  background-color: #5937e0;  
   border-radius: 12px;
   color: #fff;
   border: none;
 }
-  
+
 .car-card-feature {
   display: flex;
   justify-content: center;
@@ -727,4 +727,9 @@ footer .bottom-second p {
 .search-in-right i {
   font-size: 300px;
   color: rgb(0, 0, 0, 0.5);
+}
+.link {
+  
+  text-decoration: none;
+  color: #000;
 }
