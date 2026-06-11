@@ -1,4 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("FxSettingsContactPointFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(t,n,r,o,a,i,l){"use strict";var e=r("getFalcoLogPolicy_DO_NOT_USE")("2712"),s=o("FalcoLoggerInternal").create("fx_settings_contact_point",e),u=s;l.default=u}),98);
-__d("isEmptyObject",[],(function(t,n,r,o,a,i){"use strict";function e(e){for(var t in e)return!1;return!0}i.default=e}),66);
